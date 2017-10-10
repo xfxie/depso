@@ -1,7 +1,7 @@
 DEPSO
 ========
 
-DEPSO, or called DEPS, is an algorithm for solving (constrained) numerical optimization problem (NOP), by hybridizing the advantages of Particle Swarm Optimization (PSO) and Differential Evolution (DE).
+DEPSO, or called DEPS, is an algorithm for solving (constrained) numerical optimization problem (NOP), by combining the advantages of Particle Swarm Optimization (PSO) and Differential Evolution (DE).
 
 - Current version: The mini Series V1.00.03 (Java) with the DEPSO implementation
 
