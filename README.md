@@ -1,7 +1,13 @@
 DEPSO
 ========
 
-DEPSO, or called DEPS, is an algorithm hybridizing the advantages of Particle Swarm Optimization (PSO) and Differential Evolution (DE). It solves (constrained) numerical optimization problem (NOP) as
+DEPSO, or called DEPS, is an algorithm hybridizing the advantages of Particle Swarm Optimization (PSO) and Differential Evolution (DE). 
+
+The [DEPSO paper](http://www.wiomax.com/team/xie/paper/SMCC03.pdf) has been [cited](https://scholar.google.com/scholar?cites=14983093978441487870) over 400 times with various applications. DEPSO was also implemented (by Sun Microsystems Inc.) into [NLPSolver](https://wiki.openoffice.org/wiki/NLPSolver) (Solver for Nonlinear Programming), an extension of Calc in Apache OpenOffice.
+
+Problem to be Solved
+--------------------
+It solves (constrained) numerical optimization problem (NOP) as
 
 <img src="image/nop.png" width="50%" />
 
