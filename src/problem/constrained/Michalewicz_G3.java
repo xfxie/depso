@@ -42,7 +42,7 @@ public class Michalewicz_G3 extends ProblemEncoder {
     }
 
     setDefaultYAt(0, MAXBOUND, MAXBOUND);
-    setDefaultYAt(1, -epsilon, epsilon);
+    setDefaultYAt(1, -epsilon, epsilon); //use the range [-epsilon, epsilon] as the approximation of an equality constraint
   }
 
   protected double calcTargetAt(int index, double[] VX) {

@@ -26,7 +26,7 @@
  * [1] Serra P, Stanton A F, Kais S. Comparison study of pivot methods for global
  *  optimization. J. Chem. Phys, 1997, 106(17): 7170-7177
  * [2] Xiao-Feng Xie, Jiming Liu. A compact multiagent system based on autonomy oriented computing, 
- *  IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT), Compiégne, France, 2005: 38-44. 
+ *  IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT), Compiegne, France, 2005: 38-44. 
  */
 
 package problem.unconstrained;
