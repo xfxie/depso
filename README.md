@@ -22,7 +22,7 @@ E-MAIL: Xiao-Feng Xie <xie@wiomax.com>
 Version History
 -------------------
 
-Current: The mini Series V1.00.03 (Java) with the DEPSO implementation
+Current: The mini Series V1.00.04 (Java) with the DEPSO implementation
 
 Quick start
 -----------
