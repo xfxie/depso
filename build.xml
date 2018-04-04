@@ -64,7 +64,6 @@
         </manifest>
 
         <jar destfile="${jar.file}" basedir="${build.dir}" manifest="${manifest.file}">
-            <fileset dir="${build.dir}" includes="**/*.class" />
             <zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
         </jar>
         <delete file="${manifest.file}"/>
